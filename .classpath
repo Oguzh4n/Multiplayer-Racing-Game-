@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Simulator/src"/>
+	<classpathentry kind="src" path="SimulatorInterfaces/src"/>
+	<classpathentry kind="src" path="SimulatorServer/src"/>
+	<classpathentry kind="lib" path="Simulator/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Simulator/dist/lib/SimulatorInterfaces.jar"/>
+	<classpathentry kind="lib" path="Simulator/dist/Simulator.jar"/>
+	<classpathentry kind="lib" path="SimulatorInterfaces/dist/SimulatorInterfaces.jar"/>
+	<classpathentry kind="output" path="Simulator/build/classes"/>
+</classpath>
